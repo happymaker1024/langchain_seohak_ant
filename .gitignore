@@ -164,3 +164,10 @@ cython_debug/
 작업노트.txt
 __pycache__
 AAPL_company_info_report.md
+data.ms
+dumps
+__pycache__
+AAPL_company_info_report
+meilisearch-windows-amd64.exe
+nasdaq_screener_1729401017798.csv
+nasdaq_screener_1729802482963.csv
